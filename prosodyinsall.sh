@@ -2,7 +2,7 @@
 # By Sameer
 #set -e
 set -x
-
+### In this 0.0.0.0 is just the dummy ip #####
 # ===== Variables =====
 ROOT_DIR="/root/migration/"
 CONF_DIR="/etc/prosody"
